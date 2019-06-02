@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">BasketBallClub</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="club_name">
+        <item>Atlanta Hawksws</item>
+        <item>boston celtic</item>
+        <item>charlotte hornetC</item>
+        <item>chicago bulls</item>
+        <item>cleveland cavaliers</item>
+        <item>clippers la</item>
+        <item>dellas maveriks</item>
+        <item>denver nuggets</item>
+        <item>detroit pistons</item>
+        <item>goldenstate warriors</item>
+        <item>grizzlies memphis</item>
+        <item>heat miami</item>
+        <item>houston rockets</item>
+        <item>indiana pacers</item>
+        <item>jazz utah</item>
+        <item>kings sacramento</item>
+        <item>knicks ny</item>
+        <item>lakers la</item>
+        <item>magic orlando</item>
+        <item>milwaukee bucks</item>
+        <item>pelicans neworleans</item>
+        <item>raptors toronto</item>
+        <item>spurs sa</item>
+        <item>suns phoenix</item>
+        <item>thunder oklahomacity</item>
+        <item>minnesota</item>
+        <item>trail blazzer portland</item>
+        <item>wizzard washington</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/atlanta_hawks</item>
+        <item>@drawable/boston_celtic</item>
+        <item>@drawable/charlotte_hornet</item>
+        <item>@drawable/chicago_bulls</item>
+        <item>@drawable/cleveland_cavaliers</item>
+        <item>@drawable/clippers_la</item>
+        <item>@drawable/dellas_maveriks</item>
+        <item>@drawable/denver_nuggets</item>
+        <item>@drawable/detroit_pistons</item>
+        <item>@drawable/goldenstate_warriors</item>
+        <item>@drawable/grizzlies_memphis</item>
+        <item>@drawable/heat_miami</item>
+        <item>@drawable/houston_rockets</item>
+        <item>@drawable/indiana_pacers</item>
+        <item>@drawable/jazz_utah</item>
+        <item>@drawable/kings_sacramento</item>
+        <item>@drawable/knicks_ny</item>
+        <item>@drawable/lakers_la</item>
+        <item>@drawable/magic_orlando</item>
+        <item>@drawable/milwaukee_bucks</item>
+        <item>@drawable/pelicans_neworleans</item>
+        <item>@drawable/raptors_toronto</item>
+        <item>@drawable/spurs_sa</item>
+        <item>@drawable/suns_phoenix</item>
+        <item>@drawable/thunder_oklahomacity</item>
+        <item>@drawable/timberwolves_minnesota</item>
+        <item>@drawable/trail_blazzer_portland</item>
+        <item>@drawable/wizzard_washington</item>
+    </array>
+
+    <string-array name="club_desc">
+        <item>The Atlanta Hawks are an American professional basketball team based in Atlanta, Georgia. The Hawks compete in the National Basketball Association as a member of the league\'s Eastern Conference Southeast Division. The team plays its home games at State Farm Arena.</item>
+        <item>The Boston Celtics are an American professional basketball team based in Boston, Massachusetts. The Celtics compete in the National Basketball Association as a member of the league\'s Eastern Conference Atlantic Division.</item>
+        <item>The Charlotte Hornets are an American professional basketball team based in Charlotte, North Carolina. The Hornets compete in the National Basketball Association, as a member of the league\'s Eastern Conference Southeast Division</item>
+        <item>The Chicago Bulls are an American professional basketball team based in Chicago, Illinois. The Bulls compete in the National Basketball Association as a member of the league\'s Eastern Conference Central Division. The team was founded on January 16, 1966</item>
+        <item>The Cleveland Cavaliers, often referred to as the Cavs, are an American professional basketball team based in Cleveland, Ohio. The Cavs compete in the National Basketball Association as a member of the league\'s Eastern Conference Central Division.</item>
+        <item>The Los Angeles Clippers, abbreviated by the team as the LA Clippers, are an American professional basketball team based in Los Angeles</item>
+        <item>The Dallas Mavericks are an American professional basketball team based in Dallas, Texas. The Mavericks compete in the National Basketball Association as a member club of the league\'s Western Conference Southwest Division</item>
+        <item>The Denver Nuggets are an American professional basketball team based in Denver, Colorado. The Nuggets compete in the National Basketball Association as a member club of the league\'s Western Conference Northwest Division</item>
+        <item>The Detroit Pistons are an American professional basketball team based in Detroit, Michigan. The Pistons compete in the National Basketball Association as a member of the league\'s Eastern Conference Central Division and plays its home games at Little Caesars Arena</item>
+        <item>The Golden State Warriors are an American professional basketball team based in Oakland, California. The Warriors compete in the National Basketball Association, as a member of the league\'s Western Conference Pacific Division.</item>
+        <item>The Memphis Grizzlies are an American professional basketball team based in Memphis, Tennessee. The Grizzlies compete in the National Basketball Association as a member team of the league\'s Western Conference Southwest Division. The Grizzlies play their home games at FedExForum. The team is owned by Robert Pera</item>
+        <item>The Miami Heat is an American professional basketball team based in Miami, Florida. The Heat compete in the National Basketball Association, as a member of the league\'s Eastern Conference Southeast Division. The Heat play their home games at American Airlines Arena, and have won three NBA championships</item>
+        <item>The Houston Rockets are an American professional basketball team based in Houston, Texas. The Rockets compete in the National Basketball Association as a member of the league\'s Western Conference Southwest Division. The team plays its home games at the Toyota Center, located in downtown Houston.</item>
+        <item>The Indiana Pacers are an American professional basketball team based in Indianapolis, Indiana. The Pacers compete in the National Basketball Association as a member club of the league\'s Eastern Conference Central Division</item>
+        <item>Utah Jazz adalah tim bola basket Amerika yang tergabung dalam National Basketball Association. Tim ini berbasis di Salt Lake City, Utah. Nama Jazz diambil dari musik warisan kota Utah. Dulunya tim ini berbasis di New Orleans, Louisiana dan dinamakan New Orleans Jazz.</item>
+        <item>The Sacramento Kings are an American professional basketball team based in Sacramento, California. The Kings compete in the National Basketball Association as a member of the Western Conference\'s Pacific Division</item>
+        <item>The New York Knickerbockers, more commonly referred to as the Knicks, are an American professional basketball team based in the borough of Manhattan, in New York City. The Knicks compete in the National Basketball Association as a member of the Atlantic Division of the Eastern Conference.</item>
+        <item>The Los Angeles Lakers are an American professional basketball team based in Los Angeles. The Lakers compete in the National Basketball Association, as a member of the league\'s Western Conference in the Pacific Division.</item>
+        <item>The Orlando Magic are an American professional basketball team based in Orlando, Florida. The Magic compete in the National Basketball Association as a member of the league\'s Eastern Conference Southeast Division</item>
+        <item>The Milwaukee Bucks are an American professional basketball team based in Milwaukee, Wisconsin. The Bucks compete in the National Basketball Association as a member of the league\'s Eastern Conference Central Division. The team was founded in 1968 as an expansion team, and play at the Fiserv Forum.</item>
+        <item>The New Orleans Pelicans are an American professional basketball team based in New Orleans, Louisiana. The Pelicans compete in the National Basketball Association as a member club of the league\'s Western Conference Southwest Division. The team plays their home games in the Smoothie King Center.</item>
+        <item>The Toronto Raptors are a Canadian professional basketball team based in Toronto, Ontario. The Raptors compete in the National Basketball Association, as a member club of the league\'s Eastern Conference Atlantic Division. </item>
+        <item>The San Antonio Spurs are an American professional basketball team based in San Antonio</item>
+        <item>The Phoenix Suns are an American professional basketball team based in Phoenix, Arizona. The Suns compete in the National Basketball Association, as a member of the league\'s Western Conference Pacific Division, and are the only team in their division not based in California.</item>
+        <item>Oklahoma City Thunder adalah tim bola basket dari kota Oklahoma City, Oklahoma, Amerika Serikat yang tergabung dalam National Basketball Association. Thunder merupakan inkarnasi dari tim Seattle SuperSonics yang kini tidak lagi mengikuti kompetisi NBA</item>
+        <item>The Minnesota Timberwolves are an American professional basketball team based in Minneapolis, Minnesota. The Timberwolves compete in the National Basketball Association as a member club of the league\'s Western Conference Northwest Division</item>
+        <item>The Portland Trail Blazers, commonly known as the Blazers, are an American professional basketball team based in Portland, Oregon. The Trail Blazers compete in the National Basketball Association as a member of the league\'s Western Conference Northwest Division.</item>
+        <item>The Washington Wizards are an American professional basketball team based in Washington, D.C. The Wizards compete in the National Basketball Association as a member of the league\'s Eastern Conference Southeast Division.</item>
+    </string-array>
+</resources>

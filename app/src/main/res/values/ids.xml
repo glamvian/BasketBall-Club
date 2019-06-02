@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="club_image" type="id"/>
+    <item name="club_name" type="id" />
+    <item name="recyclerViewUI" type="id"/>
+    <item name="desc" type="id"/>
+</resources>
